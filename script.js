@@ -64,7 +64,7 @@ form?.addEventListener('submit', (e) => {
 // Download CV (placeholder)
 $('#download-cv')?.addEventListener('click', (e) => {
   e.preventDefault();
-  alert('ตัวอย่าง: แนบไฟล์ CV ภายหลัง หรือเชื่อมลิงก์ Google Drive');
+  alert('ระบบกำลังอยู่ในการปิดใช้งาน');
 });
 
 // Active nav on scroll (basic)
